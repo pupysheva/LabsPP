@@ -1,10 +1,8 @@
-import org.junit.Test;
+/*import org.junit.Test;
 import ru.mirea.DataSourceApi.ICustomQueue;
-import ru.mirea.DataSourceApi.ITask;
 import ru.mirea.DataSourceImple.CustomQueue;
 import ru.mirea.WeatherService.*;
 
-import java.util.*;
 
 public class TestServiceWeather {
     @Test
@@ -45,4 +43,4 @@ public class TestServiceWeather {
         threadExecutor3.interrupt();
         threadPrint.interrupt();
     }
-}
+}*/

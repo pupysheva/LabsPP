@@ -1,4 +1,4 @@
-/*import org.junit.Test;
+import org.junit.Test;
 import ru.mirea.DataSourceApi.ICustomQueue;
 import ru.mirea.DataSourceApi.ITask;
 import ru.mirea.DataSourceImple.CustomQueue;
@@ -42,4 +42,4 @@ public class Test2 {
         
         
     }
-}*/
+}

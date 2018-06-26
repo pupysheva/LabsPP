@@ -10,11 +10,9 @@ public class CustomQueue implements ICustomQueue {
     public CustomQueue(int size){
 	this.size = size;
     }
-    
     public void setQeue(ITask task) {
         if (Queue.size()<size) Queue.add(task);
     }
-    
     public Queue<ITask> getQeue(){
         return Queue;
     }

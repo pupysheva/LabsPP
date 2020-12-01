@@ -1,35 +1,35 @@
 public class CalcTest{
 	public static void test_add(int a, int b){
 		if(Calc.add(1,2)==3)
-			System.out.println("ок");
-		else System.out.println("not ок");
+			System.out.println("РѕРє");
+		else System.out.println("not РѕРє");
 	}
 	public static void test_div(int a, int b){
 		if(Calc.div(4,2)==2)
-			System.out.println("ок");
-		else System.out.println("not ок");
+			System.out.println("РѕРє");
+		else System.out.println("not РѕРє");
 	}
 	public static void test_sub(int a, int b){
 		if(Calc.sub(3,1)==2)
-			System.out.println("ок");
-		else System.out.println("not ок");
+			System.out.println("РѕРє");
+		else System.out.println("not РѕРє");
 	}
 	public static void test_mult(int a, int b){
 		if(Calc.mult(2,2)==4)
-			System.out.println("ок");
-		else System.out.println("not ок");
+			System.out.println("РѕРє");
+		else System.out.println("not РѕРє");
 	
 	}
 
 	public static void test_add_doub(double a, double b){
 		if((Calc.add(1.1,2.1)-3.2)<0.000001)
-			System.out.println("ок");
-		else System.out.println("not ок");
+			System.out.println("РѕРє");
+		else System.out.println("not РѕРє");
 	}
 	public static void test_div_doub(double a, double b){
 		if((Calc.div(4.2,2)-2.1)<0.000001)
-			System.out.println("ок");
-		else System.out.println("not ок");
+			System.out.println("РѕРє");
+		else System.out.println("not РѕРє");
 	}
 	public static void test_sub_doub(double a, double b){
 		if((Calc.sub(3.3,1.2)-2.2)<0.000001)
@@ -38,8 +38,8 @@ public class CalcTest{
 	}
 	public static void test_mult_doub(double a, double b){
 		if((Calc.mult(2.1,2)-4.2)<0.000001)
-			System.out.println("ок");
-		else System.out.println("not ок");
+			System.out.println("РѕРє");
+		else System.out.println("not РѕРє");
 	
 	}
 
